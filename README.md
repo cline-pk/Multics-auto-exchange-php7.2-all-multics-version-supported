@@ -24,3 +24,5 @@ sudo apt-get install libapache2-mod-php7.2 -y
 /var/www/html/  or  if you using main index page then => /var/www/html/ex/ folder
 
 Now edit config.php and set there your multics login or cache, cccam, mgcamd port or editors ID's where cache.cfg , cccam.cfg , mgcamd.cfg files included.
+
+![config](https://user-images.githubusercontent.com/60063959/163029136-4892fa9d-3766-4a43-9545-c7426a1050b9.png)
