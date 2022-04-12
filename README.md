@@ -2,9 +2,13 @@
 Auto Multics Exchanger files for php7.2 [All Multics version supported]
 
 A-Z all multics version supported.
+
 All php version supported.
+
 Multiple cache share supported
+
 Ajax supported.
+
 fake user, pass protection added.
 
 # Fresh installation for ubuntu 18.04.
