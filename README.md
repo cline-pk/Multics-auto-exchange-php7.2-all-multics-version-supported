@@ -3,7 +3,7 @@ Auto Multics Exchanger files for php7.2 [All Multics version supported]
 
 A-Z all multics version supported.
 
-All php version supported.
+All php version supported. (recommended version 7.2, because i'm using that, here is live demo: https://multics-exchange.com/hb_v29/ )
 
 Multiple cache share supported
 
