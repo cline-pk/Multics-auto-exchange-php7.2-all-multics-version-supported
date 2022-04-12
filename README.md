@@ -2,13 +2,9 @@
 Auto Multics Exchanger files for php7.2 [All Multics version supported]
 
 A-Z all multics version supported.
-
 All php version supported. (recommended version 7.2, because i'm using that, here is live demo: https://multics-exchange.com/hb_v29/ )
-
 Multiple cache share supported
-
 Ajax supported.
-
 fake user, pass protection added.
 
 # Fresh installation for ubuntu 18.04.
@@ -26,3 +22,7 @@ sudo apt-get install libapache2-mod-php7.2 -y
 Now edit config.php and set there your multics login or cache, cccam, mgcamd port or editors ID's where cache.cfg , cccam.cfg , mgcamd.cfg files included.
 
 ![config](https://user-images.githubusercontent.com/60063959/163029136-4892fa9d-3766-4a43-9545-c7426a1050b9.png)
+
+
+
+You can Support me by send tip how much you want ;) BTC-> 16cFkm5Hpxi7m2dZVETGEfoNdhj5FFjNEK
